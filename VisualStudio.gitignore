@@ -146,7 +146,7 @@ ipch/
 *.VC.opendb
 
 # Visual C++ cache files
-v16/
+.vs/AR_180Triangulos/v16/
 
 # Visual Studio profiler
 *.psess
