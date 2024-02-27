@@ -145,6 +145,10 @@ ipch/
 *.VC.VC.opendb
 *.VC.opendb
 
+# Visual C++ cache files
+v16/
+*.VC.opendb
+
 # Visual Studio profiler
 *.psess
 *.vsp
