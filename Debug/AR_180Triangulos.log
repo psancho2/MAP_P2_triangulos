@@ -1,0 +1,4 @@
+﻿  AR_180Triangulos.cpp
+C:\Users\user\source\repos\AR_180Triangulos\AR_180Triangulos.cpp(50,23): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\user\source\repos\AR_180Triangulos\AR_180Triangulos.cpp(48,28): warning C4101: 'i': variable local sin referencia
+  AR_180Triangulos.vcxproj -> C:\Users\user\source\repos\AR_180Triangulos\Debug\AR_180Triangulos.exe
