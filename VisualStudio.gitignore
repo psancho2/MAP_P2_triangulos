@@ -148,6 +148,8 @@ ipch/
 # Visual C++ cache files
 v16/
 *.VC.opendb
+*.suo
+*.VC.db
 
 # Visual Studio profiler
 *.psess
